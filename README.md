@@ -69,3 +69,13 @@ The following diagrams illustrate the **overall workflow and structure** of the 
 ---
 
 ## 📂 Project Structure
+
+mapty-2025/
+│── index.html
+│── style.css
+│── script.js
+│── icon.png
+│── logo.png
+│── Mapty-flowchart.png
+│── Mapty-architecture-part-1.png
+│── Mapty-architecture-final.png
